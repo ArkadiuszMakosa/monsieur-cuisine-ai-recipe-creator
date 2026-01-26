@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../README.md" />
+  </Folder>
+  <Project Path="monsieur-cuisine-ai-recipe-creator.AppHost/monsieur-cuisine-ai-recipe-creator.AppHost.csproj" />
+  <Project Path="monsieur-cuisine-ai-recipe-creator.ServiceDefaults/monsieur-cuisine-ai-recipe-creator.ServiceDefaults.csproj" />
+  <Project Path="monsieur-cuisine-ai-recipe.Domain/monsieur-cuisine-ai-recipe.Domain.csproj" />
+  <Project Path="WebApp/WebApp.csproj" />
+</Solution>
