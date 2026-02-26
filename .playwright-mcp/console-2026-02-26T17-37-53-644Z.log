@@ -1,0 +1,2 @@
+[    6456ms] TypeError: Cannot read properties of undefined (reading 'hide')
+    at https://www.monsieur-cuisine.com/wp-content/themes/mc3-child/assets/mc-vue/dist/chunk-common.1.134.0.1770258333.js:1:383918
