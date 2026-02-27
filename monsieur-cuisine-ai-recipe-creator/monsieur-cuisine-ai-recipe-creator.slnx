@@ -2,9 +2,10 @@
   <Folder Name="/Solution Items/">
     <File Path="../README.md" />
   </Folder>
-  <Project Path="ConsoleApp/ConsoleApp.csproj" />
   <Project Path="monsieur-cuisine-ai-recipe-creator.AppHost/monsieur-cuisine-ai-recipe-creator.AppHost.csproj" />
   <Project Path="monsieur-cuisine-ai-recipe-creator.ServiceDefaults/monsieur-cuisine-ai-recipe-creator.ServiceDefaults.csproj" />
   <Project Path="monsieur-cuisine-ai-recipe.Domain/monsieur-cuisine-ai-recipe.Domain.csproj" />
+  <Project Path="monsieur-cuisine-ai-recipe.Domain.Generator/monsieur-cuisine-ai-recipe.Domain.Generator.csproj" />
+  <Project Path="monsieur-cuisine-ai-recipe.Domain.PageObjects/monsieur-cuisine-ai-recipe.Domain.PageObjects.csproj" />
   <Project Path="WebApp/WebApp.csproj" />
 </Solution>

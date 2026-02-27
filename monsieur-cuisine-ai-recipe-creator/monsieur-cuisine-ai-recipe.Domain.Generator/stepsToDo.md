@@ -17,4 +17,5 @@
 - [x] Implement Program.cs – launch Playwright, open MyRecipes, detect login state, auto-login if needed
 
 ## Validation
-- [ ] Build solution successfully
+- [x] Fix solution file (.slnx) to include Generator and PageObjects projects
+- [ ] Build solution successfully (run: dotnet build from the solution directory)
